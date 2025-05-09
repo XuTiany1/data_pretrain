@@ -1,0 +1,4 @@
+File,Size (Human),Size (Bytes),Gzipped Size (Human),Gzipped Size (Bytes),Compression Ratio,Number of Examples
+amh_Ethi_data.jsonl,7.09 GB,7610927902,1.14 GB,1226965286,16.1%,677690
+arz_Arab_data.jsonl,10.44 GB,11212036346,1.27 GB,1366933964,12.2%,2526168
+swc_Latn_data.jsonl,4.80 GB,5156269024,1.69 GB,1817879025,35.3%,2341117
